@@ -2,9 +2,9 @@
 Analyzing the data to answer research questions related to the number of episodes, statistics of asked amount, equity, and valuation, brand investments, shark participation, deal dynamics, and overall investment amount.
 
 # Research Questions
+
 Q1. Find the number of episodes?
-Q2. Max, min , mean of asked amount,asked equity, asked valuation? 
-Q3. Max & Min asked- equity,asked-valuation and asked amount episode-wise? 
+Q2. Max, min , mean of asked amount,asked equity, asked valuation? Q3. Max & Min asked- equity,asked-valuation and asked amount episode-wise? 
 Q4. Brand names in which 2 ,3 or 4 sharks are invested? 
 Q5. Episode wise minimum and maximum of sharks invested? 
 Q6. Minimum and Maximum sharks invested in each brand? 
