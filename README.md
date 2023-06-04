@@ -5,7 +5,6 @@ Analyzing the data to answer research questions related to the number of episode
 # Research Questions
 
 Q1. Find the number of episodes?
-
 Q2. Max, min , mean of asked amount,asked equity, asked valuation? 
 
 Q3. Max & Min asked- equity,asked-valuation and asked amount episode-wise? 
